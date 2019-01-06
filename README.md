@@ -4,7 +4,7 @@
 2. [Installed Plugins](#installed-plugins)
 3. [Potentially Interesting Plugins](#potentially)
 
-# General<a name"general"></a>
+# General<a name="general"></a>
 - Colors: http://wiki.ess3.net/mc/
 # Installed Plugins<a name="installed-plugins"></a>
 - [Vault](#vault)
