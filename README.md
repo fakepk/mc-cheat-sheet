@@ -62,6 +62,7 @@
 > A Google Maps-like map for your Minecraft server that can be viewed in a browser. Easy to set up when making use of Dynmap's integrated webserver which works out-of-the-box, while also available to be integrated into existing websites running on Apache and the like. Dynmap can render your worlds using different renderers, some suitable for performance, some for high detail.
 - Version: 3.0-beta-3
 - Wiki: https://github.com/webbukkit/dynmap/wiki
+- Commands: https://github.com/webbukkit/dynmap/wiki/Commands
 
 ## [Carz](https://www.spigotmc.org/resources/carz.56255/)<a name="carz"></a>
 > Do you have a server that has a city theme? Want to add more realism by being able to drive a car on any surface? Then this is the perfect plugin for your server!
