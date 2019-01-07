@@ -74,9 +74,9 @@
     - [ ] Test
 
 # Potentially Interesting Plugins<a name="potentiually"></a>
-- [ ] Plot2Dynmap https://www.spigotmc.org/resources/plot2dynmap.1292/ --> use [this release](https://github.com/IntellectualSites/plot2dynmap/releases)
-- [ ] Lucky Block http://www.minecraftascending.com/projects/lucky_block/lucky_block.html
-- [ ] SimplePets https://www.spigotmc.org/resources/simplepets.14124/
+- Plot2Dynmap https://www.spigotmc.org/resources/plot2dynmap.1292/ --> use [this release](https://github.com/IntellectualSites/plot2dynmap/releases)
+- Lucky Block http://www.minecraftascending.com/projects/lucky_block/lucky_block.html
+- SimplePets https://www.spigotmc.org/resources/simplepets.14124/
     - requires: SimpleAPI https://www.spigotmc.org/resources/simpleapi.24671/
 - Clans https://www.spigotmc.org/resources/clans-clan-system-full-gui-commands.34696/
     - requires: PlaceholderAPI https://www.spigotmc.org/resources/placeholderapi.6245/
