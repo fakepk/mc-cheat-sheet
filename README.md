@@ -13,6 +13,7 @@
 - [PlotSquared](#plotsquared)
 - [Dynmap](#dynmap)
 - [Carz](#carz)
+- [Holographic Displays](#holo)
 
 ## [PermissionsEx](https://dev.bukkit.org/projects/permissionsex)<a name="pex"></a>
 > PermissionsEx (PEX) is a new permissions plugin, based on Permissions ideas and supports all of its features. But PEX is more! It offers different backends, powerful ingame management, fine grained restrictions for world modification.
@@ -68,6 +69,9 @@
 - Todo
     - [ ] Set permissions for normal users
     - [ ] Test
+
+## [Holographic Displays](https://dev.bukkit.org/projects/holographic-displays)<a name="holo"></a>
+- Version: 2.3.2
 
 # Potentially Interesting Plugins<a name="potentiually"></a>
 - [LuckPerms](#luck-perms)
