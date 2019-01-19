@@ -7,25 +7,21 @@
 # General<a name="general"></a>
 - Colors: http://wiki.ess3.net/mc/
 # Installed Plugins<a name="installed-plugins"></a>
-- [Vault](#vault)
-- [LuckPerms](#luck-perms)
+- [PermissionsEx](#pex)
 - [EssentialsX](#essentialsx)
 - [WorldEdit](#worldedit)
 - [PlotSquared](#plotsquared)
 - [Dynmap](#dynmap)
 - [Carz](#carz)
 
+## [PermissionsEx](https://dev.bukkit.org/projects/permissionsex)<a name="pex"></a>
+> PermissionsEx (PEX) is a new permissions plugin, based on Permissions ideas and supports all of its features. But PEX is more! It offers different backends, powerful ingame management, fine grained restrictions for world modification.
+- Version: 1.23.4
+- Wiki: https://github.com/PEXPlugins/PermissionsEx/wiki
+
 ## [Vault](https://www.spigotmc.org/resources/vault.34315/)<a name="vault"></a>
 > Vault is a Permissions, Chat, & Economy API to give plugins easy hooks into these systems without needing to hook or depend on each individual plugin themselves. It was born out of a distaste for how both Register and the current Permissions API are run, and their lack of features or over-complicated implementations. Vault attempts to solve these issues by being intuitive and providing plugins with support for any system that they may use.
 - Version: 1.7.1
-
-## [LuckPerms](https://www.spigotmc.org/resources/luckperms-an-advanced-permissions-plugin.28140/)<a name="luck-perms"></a>
-> Description: LuckPerms is an advanced permissions implementation aiming to be a fast, reliable and flexible alternative to existing permission plugins. The project's main goals are centered around high performance and a wide feature set, filling the gaps of functionality and building upon existing features found in other plugins. LuckPerms also includes an extensive API for developers, and support for a variety of Minecraft server software & data storage options.
-- Version: 4.3.64
-- Build Server: https://ci.lucko.me/job/LuckPerms/
-- Wiki: https://github.com/lucko/LuckPerms/wiki
-- Commands: https://github.com/lucko/LuckPerms/wiki/Command-Usage
-
 
 ## [EssentialsX](https://www.spigotmc.org/resources/essentialsx.9089/)<a name="essentialsx"></a>
 > EssentialsX is an unofficial continuation of Essentials, updated to support modern Minecraft and Spigot versions. It provides several performance enhancements and fixes that are currently not available in Essentials and Spigot-Essentials.
@@ -74,6 +70,7 @@
     - [ ] Test
 
 # Potentially Interesting Plugins<a name="potentiually"></a>
+- [LuckPerms](#luck-perms)
 - Plot2Dynmap https://www.spigotmc.org/resources/plot2dynmap.1292/ --> use [this release](https://github.com/IntellectualSites/plot2dynmap/releases)
 - Lucky Block http://www.minecraftascending.com/projects/lucky_block/lucky_block.html
 - SimplePets https://www.spigotmc.org/resources/simplepets.14124/
@@ -82,3 +79,10 @@
     - requires: PlaceholderAPI https://www.spigotmc.org/resources/placeholderapi.6245/
 - Factions https://www.spigotmc.org/resources/factions.1900/
     - seems to be not stable on spigot 1.13.2
+
+## [LuckPerms](https://www.spigotmc.org/resources/luckperms-an-advanced-permissions-plugin.28140/)<a name="luck-perms"></a>
+> Description: LuckPerms is an advanced permissions implementation aiming to be a fast, reliable and flexible alternative to existing permission plugins. The project's main goals are centered around high performance and a wide feature set, filling the gaps of functionality and building upon existing features found in other plugins. LuckPerms also includes an extensive API for developers, and support for a variety of Minecraft server software & data storage options.
+- Version: 4.3.64
+- Build Server: https://ci.lucko.me/job/LuckPerms/
+- Wiki: https://github.com/lucko/LuckPerms/wiki
+- Commands: https://github.com/lucko/LuckPerms/wiki/Command-Usage
