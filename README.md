@@ -14,6 +14,7 @@
 - [Dynmap](#dynmap)
 - [Carz](#carz)
 - [Holographic Displays](#holo)
+- [Sign Plugin](#sign)
 
 ## [PermissionsEx](https://dev.bukkit.org/projects/permissionsex)<a name="pex"></a>
 > PermissionsEx (PEX) is a new permissions plugin, based on Permissions ideas and supports all of its features. But PEX is more! It offers different backends, powerful ingame management, fine grained restrictions for world modification.
@@ -72,6 +73,9 @@
 
 ## [Holographic Displays](https://dev.bukkit.org/projects/holographic-displays)<a name="holo"></a>
 - Version: 2.3.2
+
+## [Sign Plugin](https://www.spigotmc.org/resources/sign-plugin.63086/)<a name="sign"></a>
+- Version: 1.0
 
 # Potentially Interesting Plugins<a name="potentiually"></a>
 - [LuckPerms](#luck-perms)
