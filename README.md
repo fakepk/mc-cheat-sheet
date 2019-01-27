@@ -101,6 +101,6 @@ It completely uses reflections to interact with NMS code and works with all the 
 - Version: 1.8.2
 - Repository: https://github.com/tr7zw/Item-NBT-API
 
-## General Notes:
+## General Notes
 - NMS = Net Minecraft Server package
 - NBT = Named Binary Tag
