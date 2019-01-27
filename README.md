@@ -45,8 +45,6 @@
 - Wiki: http://wiki.sk89q.com/wiki/WorldEdit
 - Permissions: http://wiki.sk89q.com/wiki/WorldEdit/Permissions
 - Commands: http://wiki.sk89q.com/wiki/WorldEdit/Permissions (yes the permissons page ;-) 
-- Todo
-    - [ ] Test
 
 ### [PlotSquared](https://www.spigotmc.org/resources/plotsquared.1177/)<a name="plotsquared"></a>
 > PlotSquared is a land management plugin and world manager which also comes with several highly configurable world generators. You can create plots of land in existing worlds using plot clusters, or you can have a full world of plots.
@@ -54,8 +52,6 @@
 - Requires: [WorldEdit](#worldedit)
 - Wiki: https://github.com/IntellectualSites/PlotSquared/wiki
 - Build Server: https://ci.athion.net/job/PlotSquared-Breaking/
-- Todo
-    - [ ] Test
 
 ### [Dynmap](https://www.spigotmc.org/resources/dynmap.274/)<a name="dynmap"></a>
 > A Google Maps-like map for your Minecraft server that can be viewed in a browser. Easy to set up when making use of Dynmap's integrated webserver which works out-of-the-box, while also available to be integrated into existing websites running on Apache and the like. Dynmap can render your worlds using different renderers, some suitable for performance, some for high detail.
