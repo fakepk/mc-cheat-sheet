@@ -94,3 +94,13 @@
 - Build Server: https://ci.lucko.me/job/LuckPerms/
 - Wiki: https://github.com/lucko/LuckPerms/wiki
 - Commands: https://github.com/lucko/LuckPerms/wiki/Command-Usage
+
+## [NBT-API](https://www.spigotmc.org/resources/item-entity-tile-nbt-api.7939/)<a name="nbt-api"></a>
+> The NBT API allows you to add custom NBT tags to Itemstacks, TileEntities and Entities, or modify excisting ones!
+It completely uses reflections to interact with NMS code and works with all the latest versions. On server start the plugin checks all reflections.
+- Version: 1.8.2
+- Repository: https://github.com/tr7zw/Item-NBT-API
+
+# General Notes:
+- NMS = Net Minecraft Server package
+- NBT = Named Binary Tag
